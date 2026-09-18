@@ -1,0 +1,6 @@
+{
+  "name": "Auren Living — Furniture & Interiors",
+  "description": "Original luxury furniture and interior design brand with a warm, minimal, editorial aesthetic crafted for modern everyday living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
